@@ -1,0 +1,4 @@
+- Mark McGwire
+- Sammy Sosa
+- Ken Griffey
+# output: -> ["Mark McGwire", "Sammy Sosa", "Ken Griffey"]
